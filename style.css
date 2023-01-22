@@ -1,6 +1,7 @@
 
 body {
   font-family: "Josefin Sans", sans-serif;
+  color: tomato;
 }
 
 h1 {
@@ -11,3 +12,12 @@ p {
   font-size: 20px;
   font-weight: bold;
 }
+
+main {
+  text-align: right;
+}
+
+a {
+  color: tomato;
+}
+
